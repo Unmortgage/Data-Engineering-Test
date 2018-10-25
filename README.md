@@ -46,7 +46,7 @@ not required.
 
 Please download the data from here:
 
-https://drive.google.com/file/d/1w0WHZe_m8kmVXMUrgireMwHtE5yxee5T/view?usp=sharing
+https://drive.google.com/open?id=1wA7FspKM5bHYevSrM8f-IvksrRq1_JCp
 
 File | Description
 ---- | -----------
