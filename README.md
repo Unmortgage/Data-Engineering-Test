@@ -33,8 +33,8 @@ Not essential but if you want to know more about the data there is some backgrou
 - Land Registry data detail - http://landregistry.data.gov.uk/app/root/doc/ppd
 - EPC data detail - https://epc.opendatacommunities.org/docs/guidance
 
-And information on SQL Lite is here
-- https://www.sqlite.org/index.html
+And information on PostgreSQL is here
+- https://www.postgresql.org/
 
 Some of the tasks we think you’d carry out as part of this test (not in order):
 
