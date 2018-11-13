@@ -7,9 +7,12 @@ for time, however your solution should give us enough code to confirm that you
 are a skilled engineer.
 
 You should use [python](https://www.python.org/) and
-[PostgreSQL](https://www.postgresql.org/), with whatever libraries or
+[SQLite](https://www.sqlite.org/), with whatever libraries or
 frameworks are appropriate.  Please note we’ll need to be able to
 replicate and run your solution, so make sure to include information on how you set up the database, all your scripts and any migrations, imports etc.
+
+We would like to be able to follow your process of understanding
+the data and basis for assumptions so please include any additional documents/notebooks you make during data exploration.
 
 Please do not make your solution publicly available, just compress this folder
 and send it back to us.
@@ -46,7 +49,7 @@ not required.
 
 Please download the data from here:
 
-https://drive.google.com/open?id=1wA7FspKM5bHYevSrM8f-IvksrRq1_JCp
+https://storage.googleapis.com/engineering-test-data-unm/Engineering_Test.zip
 
 File | Description
 ---- | -----------
@@ -70,8 +73,10 @@ Some of the tasks we think you’d carry out as part of this test (not in order)
 What we’d like to see:
 ----------------------
 
-- Tests! please include any instructions and/or dependencies that we will need
-  in order to run your tests.
+- Tests!
+  - please include any instructions and/or dependencies that we will need in order to run your tests.
+  - we would like to see unit tests
+  - and any data quality checks that you may find adequate
 - We work with git for version control, please include your .git folder when
   you compress this folder and send it back to us - You should feel free to
   commit at any point in the process.
@@ -85,4 +90,3 @@ background here:
 
 - [Land Registry data](http://landregistry.data.gov.uk/app/root/doc/ppd)
 - [EPC data](https://epc.opendatacommunities.org/docs/guidance)
-
