@@ -74,8 +74,8 @@ What we’d like to see:
 ----------------------
 
 - Tests!
-  - please include any instructions and/or dependencies that we will need in order to run your tests.
-  - we would like to see unit tests
+  - please include any instructions and/or dependencies that we will need in order to run your tests,
+  - we would like to see unit tests,
   - and any data quality checks that you may find adequate
 - We work with git for version control, please include your .git folder when
   you compress this folder and send it back to us - You should feel free to
